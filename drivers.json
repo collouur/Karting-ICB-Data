@@ -1,0 +1,70 @@
+{
+  "drivers": [
+    {
+      "id": "aleksandar-zhelyazkov",
+      "name": "Aleksandar Zhelyazkov",
+      "bestLap": "1:09.036",
+      "firstLap": "1:09.036"
+    },
+    {
+      "id": "nikola-stanoichev",
+      "name": "Nikola Stanoichev",
+      "bestLap": "1:12.617",
+      "firstLap": "1:12.617"
+    },
+    {
+      "id": "yordan-parladiyski",
+      "name": "Yordan Parladiyski",
+      "bestLap": "1:12.968",
+      "firstLap": "1:12.968"
+    },
+    {
+      "id": "georgi-mihalev",
+      "name": "Georgi Mihalev",
+      "bestLap": "1:15.215",
+      "firstLap": "1:15.215"
+    },
+    {
+      "id": "dragomir-yanev",
+      "name": "Dragomir Yanev",
+      "bestLap": "1:15.319",
+      "firstLap": "1:15.319"
+    },
+    {
+      "id": "dimitar-slavchev",
+      "name": "Dimitar Slavchev",
+      "bestLap": "—",
+      "firstLap": "—"
+    },
+    {
+      "id": "martin-atanasov",
+      "name": "Martin Atanasov",
+      "bestLap": "—",
+      "firstLap": "—"
+    },
+    {
+      "id": "kostadin-kostadinov",
+      "name": "Kostadin Kostadinov",
+      "bestLap": "—",
+      "firstLap": "—"
+    },
+    {
+      "id": "sergey-prudnikov",
+      "name": "Sergey Prudnikov",
+      "bestLap": "—",
+      "firstLap": "—"
+    },
+    {
+      "id": "yavor-vasilev",
+      "name": "Yavor Vasilev",
+      "bestLap": "—",
+      "firstLap": "—"
+    },
+    {
+      "id": "varban-varbanov",
+      "name": "Varban Varbanov",
+      "bestLap": "—",
+      "firstLap": "—"
+    }
+  ]
+}
